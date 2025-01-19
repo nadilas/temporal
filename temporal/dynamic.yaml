@@ -4,3 +4,7 @@
 limit.maxIDLength:
   - value: 255
     constraints: {}
+
+frontend.enableUpdateWorkflowExecution:
+  - value: true
+    constraints: {}
